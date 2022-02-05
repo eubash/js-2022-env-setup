@@ -1,5 +1,4 @@
-export function sum
-(
+export function sum (
     a,
     b
 ) {
