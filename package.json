@@ -19,5 +19,9 @@
   "homepage": "https://github.com/eubash/js-2022-env-setup#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.5.0"
   }
 }
